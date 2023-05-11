@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Slab:wght@700&display=swap');
+
+body{
+    margin-left: 30px;
+}
+#font-one{
+    font-family:'Roboto Slab', serif ;
+    font-size: 45px ;
+    font-weight:700 ;
+    color:#2c00cc;
+   
+   
+    }
+
+#font-two{
+     font-family: 'Roboto', sans-serif ;
+     font-size: 30px;
+     font-weight: 400 ;
+     color:#04146c;
+  
+    }
+.font-three{
+    font-family: 'Roboto', sans-serif ;
+     font-size: 30px;
+     font-weight: 700 ;
+     color:#04146c;
+}
+
+.font-four{
+    font-family: 'Roboto', sans-serif ;
+    font-size: 24px;
+    font-weight: 400 ;
+    color:#04146c ;
+   }
+#bold{
+    font-family: 'Roboto', sans-serif ;
+    font-weight: 700 ;
+    color:#04146c ;
+  
+}
+  
+#widthlogo {
+    width: 5%;
+}
+#linea{
+    border: solid 1px gray;
+    margin-top: 20px;
+}
+#button-one{
+    font-family:'Roboto Slab', serif  ;
+    font-size: 32px ;
+    font-weight: 700;
+    background-color:#f98500 ;
+    color: white;
+    margin-right: 40px;
+    margin-top: 30px;
+    border: #f98500;
+    border-radius: 10px;
+
+}
+#button-two{
+    font-family:'Roboto Slab', serif  ;
+    font-size: 32px  ;
+    font-weight: 700 ;
+    background-color:#2c00cc ;
+    color: white;
+    margin-top: 30px ;
+    border: #2c00cc;
+    border-radius: 10px;
+
+}
+.menu{
+    list-style: none;
+    padding: 0;
+
+}
+.menu li a{
+    text-decoration: none;
+    padding: 2px;
+
+  
+
+} 
+.menu li{
+    display: inline-block;
+}
+.margin{
+    margin-top: 4px;
+}
+
+input{
+    width:500px;
+    height: 50px;
+}
+
+#coment
+ {
+    width: 500px;
+    height: 100px;
+}
+b{
+    color: red;
+}
+ul{
+    margin-top: 10px;
+}
+.margin{
+    margin-top: 5px;
+}
+
