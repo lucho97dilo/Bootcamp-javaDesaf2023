@@ -1,6 +1,5 @@
  @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Slab:wght@700&display=swap');
 
-
  .font-one{
  font-family:'Roboto Slab', serif ;
  font-size: 96px ;
@@ -46,4 +45,7 @@
 }
 #widthlogo {
     width: 5%;
+}
+body{
+    background-image: url("/Ejercicio1/imgs/M5-Desafío1-img.png");
 }
